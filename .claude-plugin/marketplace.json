@@ -1,0 +1,19 @@
+{
+  "name": "intern-dev-skills",
+  "owner": {
+    "name": "Pratchayawut Thansri",
+    "url": "https://github.com/pratchayawutthansrii"
+  },
+  "metadata": {
+    "description": "Production-tested AI agent skills for full-stack software engineering interns.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "intern-dev-skills",
+      "source": "./",
+      "description": "Full-stack intern skill pack: Clean Editorial UI, Backend API Security, SEO/GEO & Lighthouse 100, Git/PR Workflow, and Full-Stack Code Review.",
+      "version": "1.0.0"
+    }
+  ]
+}
