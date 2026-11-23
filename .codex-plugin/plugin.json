@@ -1,7 +1,7 @@
 {
   "name": "intern-dev-skills",
-  "version": "1.0.0",
-  "description": "Full-stack AI agent skills pack for software engineering interns (UI, API Security, SEO/Performance, Git/PR, Code Review).",
+  "version": "1.1.0",
+  "description": "Complete 11-skill AI agent pack for software development teams & interns covering the full SDLC.",
   "repository": "https://github.com/pratchayawutthansrii/intern-dev-skills",
   "license": "MIT",
   "skillsDir": "skills"

@@ -5,15 +5,15 @@
     "url": "https://github.com/pratchayawutthansrii"
   },
   "metadata": {
-    "description": "Production-tested AI agent skills for full-stack software engineering interns.",
-    "version": "1.0.0"
+    "description": "Production-tested 11-skill AI agent suite covering the entire software development lifecycle for interns and full-stack engineering teams.",
+    "version": "1.1.0"
   },
   "plugins": [
     {
       "name": "intern-dev-skills",
       "source": "./",
-      "description": "Full-stack intern skill pack: Clean Editorial UI, Backend API Security, SEO/GEO & Lighthouse 100, Git/PR Workflow, and Full-Stack Code Review.",
-      "version": "1.0.0"
+      "description": "Complete 11-skill pack: Clean Editorial UI, API Security, SEO/GEO 100, Git/PR Workflow, Code Review, PM/Spec, DB Schema, QA Automation, Root-Cause Debug, DevOps Release, and Tech Docs.",
+      "version": "1.1.0"
     }
   ]
 }

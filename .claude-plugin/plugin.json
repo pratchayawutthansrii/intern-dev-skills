@@ -1,7 +1,7 @@
 {
   "name": "intern-dev-skills",
-  "version": "1.0.0",
-  "description": "Full-stack AI agent skills pack for software engineering interns: clean non-AI editorial UI, backend API security hardening, SEO/GEO & Lighthouse 100 performance, Git/PR workflow, and senior self-review.",
+  "version": "1.1.0",
+  "description": "Complete 11-skill AI agent pack for software development teams & interns: Editorial UI, API Security, SEO/GEO & Lighthouse 100, Git/PR Workflow, Code Review, PM/Spec Architect, Database Schema/Migrations, QA Test Automation, Root-Cause Debugging, DevOps/Release, and Tech Docs.",
   "author": {
     "name": "Pratchayawut Thansri",
     "url": "https://github.com/pratchayawutthansrii"
@@ -13,6 +13,12 @@
     "./skills/backend-api-security",
     "./skills/seo-geo-performance",
     "./skills/intern-git-pr-workflow",
-    "./skills/fullstack-code-review"
+    "./skills/fullstack-code-review",
+    "./skills/requirement-spec-architect",
+    "./skills/database-schema-migrations",
+    "./skills/qa-test-automation",
+    "./skills/debug-root-cause-solver",
+    "./skills/devops-ci-deployment",
+    "./skills/tech-docs-handover"
   ]
 }
